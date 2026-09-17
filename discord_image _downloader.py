@@ -5,7 +5,7 @@ import aiohttp
 import re
 
 BOT_TOKEN = 'token here'
-CHANNEL_IDS = [id here]  # Add your channel IDs here to add more just put a , then a space then the next one
+CHANNEL_IDS = [ https://discord.com/channels/1402973198038994995/1402973198038994997 ] # Add your channel IDs here to add more just put a , then a space then the next one
 
 intents = discord.Intents.default()
 intents.message_content = True
